@@ -70,7 +70,7 @@ The dataset contains detailed information about Netflix movies, including:
 - **Pandas** – Data cleaning & manipulation  
 - **Matplotlib / Seaborn** – Data visualization  
 - **Jupyter Notebook** – Interactive analysis  
-- *(Optional)* **Tableau** – Future dashboard visualization  
+- **Tableau** – Future dashboard visualization  
 
 ---
 
